@@ -1,0 +1,3 @@
+[submodule "pre_workshop/Intro-to-rstudio"]
+	path = pre_workshop/Intro-to-rstudio
+	url = https://github.com/VVVVivi/Intro-to-rstudio.git
